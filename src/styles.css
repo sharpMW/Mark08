@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&family=ZCOOL+KuaiLe&display=swap");
+.App {
+  font-family: "ZCOOL KuaiLe", cursive;
+  text-align: center;
+  color: rgb(170, 40, 8);
+  opacity: 0.8;
+  font-size: 2rem;
+}
+input {
+  padding: 1rem;
+  margin: 1.5rem;
+  opacity: 0.5;
+  width: 20%;
+  height: 10%;
+}
+body {
+  min-height: 100vh;
+  background: url("https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701527113.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50%;
+}
+footer {
+  margin-top: 6rem;
+}
+p {
+  padding: 1.5rem;
+  padding-top: 0;
+}
